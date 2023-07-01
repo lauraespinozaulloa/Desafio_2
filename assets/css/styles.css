@@ -1,0 +1,96 @@
+body{
+    margin:0; 
+    background-image:url(../img/fondo_marmol_blanco.avif);
+    background-repeat: repeat;
+}
+
+.header{
+    background-image: url(../img/legumbres_fondo.jpg);
+    padding: 3em;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.header h1{
+    color:rgb(126, 39, 13);
+    font-size:2.3em;
+    margin: 0px;
+    text-align: right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.header p {
+    color:rgb(126, 39, 13);
+    font-size:1.1em;
+    text-align:right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.seccion1 h2{
+    color: rgb(95, 13, 3);
+    padding-left: 3em ;
+    padding-top: 2em;
+    font-size: 1.5em;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.productos{
+    width:80%;
+    margin: auto;   
+}
+
+.productos td{
+    width:50%;
+    padding: 1em;
+    text-align: center;
+}
+
+.productos img{
+    width: 10em;
+    height: 10em;
+    padding:0.5em;
+}
+
+.nombre {
+    color:rgb(95, 13, 3);
+    font-size: 1.2em;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.descripción {
+    color:rgb(171, 63, 13);
+    font-size: 1em;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.precio {
+    color:rgb(95, 13, 3);
+    font-size: 1em;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.seccion2{
+    color: rgb(95, 13,3);
+    padding-left: 3em ;
+    padding-top: 2em;
+    font-size: 0.7em;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer{
+    background-color:rgb(95, 13, 3);
+    padding:0.4em
+}
+
+.footer p{
+    color:rgb(252, 223, 223);
+    padding: 0.4em;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
